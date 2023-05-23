@@ -1,0 +1,112 @@
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+
+footer {
+    padding: 115px;
+    background-color: #151515;
+}
+
+.home-div {
+    padding: 1% 20%;
+}
+
+.about-div {
+    padding: 1% 30%;
+}
+
+
+
+.subheading {
+    color: #000000;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #ffbd39; 
+}
+
+span {
+    color: #ffbd39;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+/* Navigation Bar */
+.navbar-brand {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+.navbar {
+    padding-bottom: 6rem;
+}
+
+.navbar-item {
+    padding: 0px 15px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color: white;
+}
+
+/* Heading buttons */
+.heading-button {
+    margin: 5% 1% 0% 0%;
+}
+
+#home-section {
+    background-color: #151515;
+    padding-bottom: 300px;
+}
+
+#about-section {
+    padding: 100px 0;
+}
+
+#skills-section {
+    background-color: #151515;
+    padding: 100px 20%;
+}
+
+#projects-section {
+    padding: 100px 0;
+}
+
+#contact-section {
+    padding: 100px 0;
+}
+
+
+.body_img {
+    padding: 20px;
+}
+
+.skill-div {
+    text-align: center;
+    padding: 5%;
+}
+
+.skill-icon {
+    font-size: 2em;
+    color: #ffbd39;
+  }
+
+.social-icon {
+    color: white;
+    margin: 1rem;
+}
+
+
+.social-icon:hover {
+    
+    color: #ffbd39;
+    
+}
